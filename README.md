@@ -2,7 +2,13 @@
 
 I'm a software engineer with experience in backend web development, cloud platforms and DevOps tooling and who has interests across the wider tech stack!
 
-### Journey So Far
+### Significant projects
+
+I spent 5 years in healthtech as a backend/platform engineer at [Digital Surgery](https://www.medtronic.com/covidien/en-us/products/digital-surgery.html) (projects not hosted on GitHub), contributing to products including
+- [Touch Surgery Simulations](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html)
+- [Touch Surgery Enterprise](https://www.medtronic.com/covidien/en-us/products/digital-surgery/enterprise-solution.html)
+
+### Background
 
 I started out in 2014 as a physics graduate before working in technology transfer for over a year. I transitioned my career to hands-on software development through a full-stack programming bootcamp in Costa Rica in 2016. Since then I've been part of product development & infrastructure teams spending time both as an individual contributor and as a people manager. I've been able to experience start-up as well as more corporate work environments. I took part in [the Recurse Center](https://www.recurse.com/) in 2021. I am currently based in London.
 
