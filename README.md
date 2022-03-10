@@ -2,7 +2,7 @@
 
 I'm a software engineer experienced in backend web development, cloud platforms and DevOps tooling and who has interests across the wider tech stack!
 
-### Significant projects
+### Work experience
 
 I spent 5 years working in healthtech as a backend developer / platform engineering manager at [Digital Surgery](https://www.medtronic.com/covidien/en-us/products/digital-surgery.html) (acquired by Medtronic in 2020), contributing to projects including
 - [Touch Surgery Enterprise](https://www.medtronic.com/covidien/en-us/products/digital-surgery/enterprise-solution.html): a cloud-based, AI-powered surgical video and analytics platform for the operating room (involved web, mobile and hardware clients)
